@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "mkdirp-promise": "^5.0.1"
+  }
+}
