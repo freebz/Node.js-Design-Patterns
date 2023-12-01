@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "scripts": {
+    "build": "webpack --config webpack.config.cjs",
+    "start": "webpack-dev-server --config webpack.config.cjs"
+  },
+  "devDependencies": {
+    "@webpack-cli/generators": "^3.0.7",
+    "html-webpack-plugin": "^5.5.3",
+    "terser-webpack-plugin": "^5.3.9",
+    "webpack-dev-server": "^4.15.1",
+    "workbox-webpack-plugin": "^7.0.0"
+  },
+  "dependencies": {
+    "nunjucks": "^3.2.1"
+  }
+}
