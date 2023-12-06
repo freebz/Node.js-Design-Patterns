@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "level": "^6.0.1",
+    "nanoid": "^2.1.11",
+    "subleveldown": "^6.0.1",
+    "superagent": "^8.1.2"
+  }
+}
