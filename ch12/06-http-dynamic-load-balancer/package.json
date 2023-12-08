@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "consul": "^1.2.0",
+    "forever": "^0.14.2",
+    "http-proxy": "^1.18.1",
+    "nanoid": "^5.0.4",
+    "portfinder": "^1.0.32"
+  }
+}

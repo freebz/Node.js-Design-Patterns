@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "get-stream": "^8.0.1"
+  }
+}
