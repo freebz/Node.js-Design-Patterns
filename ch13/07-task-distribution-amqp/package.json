@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "indexed-string-variation": "^1.0.3"
+  }
+}

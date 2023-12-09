@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "indexed-string-variation": "^1.0.3",
+    "ioredis": "^5.3.2"
+  }
+}
